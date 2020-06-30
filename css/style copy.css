@@ -1,0 +1,209 @@
+*{
+    padding: 0;
+    margin: 0;
+    zoom:99%;
+}
+
+body{
+    background: #E9E9E9;
+}
+
+.jumbotron{
+    width: 70%;
+    background: whitesmoke;
+    padding:1%;
+    border: 0.4px solid lightgray;
+    box-sizing: border-box;
+    border-radius: 2px;
+
+}
+
+.com_det{
+    line-height: 1em;
+    height: 2em;
+    overflow: hidden;
+    padding:0%;
+}
+
+#user_det{
+  
+}
+
+#dboard{
+    border: 0;
+    border-radius: 100px;
+    margin-left: 2%;
+    width: auto;
+    height: 150px;
+    box-shadow:0 3px 3px gray;
+}   
+
+.dboard_user{
+  position: relative;    
+  display:flex;
+   justify-content: flex-start;
+}
+
+#dboard_user_det{
+    margin-left: %;
+    text-align: left;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+#dboard_name{
+    font-family:rubik; 
+    font-size: 28px;
+}
+
+#dboard_work_det{
+    margin-left: 2%;
+    margin-top: 0%;
+    text-align: left;
+    width: 100%;
+}
+
+.det_big{   
+font-weight: lighter;
+font-size: 22px;
+line-height: 40px;
+}
+
+#dboard_work{
+    font-family:rubik; 
+    font-size:28px;
+    color: #178BDD;
+}
+
+#dboard_work_flat{
+    font-family:rubik; 
+    font-size:28px;
+    color:whitesmoke;
+    background:#178BDD;
+    padding-left:5%
+}
+
+#dboard_job_fil{
+    margin-left:2%; 
+    text-align: left;
+    width: 100%;
+}
+
+.title_blue{
+    color: #178BDD;
+    font-family: roboto;
+    font-size:21px;
+    margin-left: 2.5%;
+    font-weight:500; 
+}
+
+.small_grey{
+    color: rgb(99, 99, 99);
+    font-size: 16px;
+    margin-left: 2.5%;
+}
+
+#dboard_video{
+     margin-left: 3%;
+}
+
+#cdboard{
+    border: 0;
+    margin-left: 2%;
+    width: auto;
+    height: 150px;
+    box-shadow:0 3px 3px gray;
+}
+
+#cdboard_video{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+   }
+
+.nav_not_logged{
+    display: flex;
+    background: #178BDD;
+    height: 100px;
+    width: 100%;
+}   
+
+.home_bar_head{
+    text-align: left;
+    background: #178BDD;
+    margin-top: 2%;
+    font-size: 20px;
+    font-weight: 400;
+    color: whitesmoke;
+    padding-left: 4%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+}
+
+.home_stream_box{
+    width:20%;
+    height: 10%;
+    background: #EDEDED;
+    border: 0.4px solid #b9b9b9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left:6%;
+    margin-top: 2%;
+    text-align: left;
+    color: #178BDD;
+}
+
+#form_head{
+    font-family:rubik; 
+    font-size: 28px;
+    color: #178BDD;
+}
+
+.butn_dasboard{
+    background: #178BDD;
+    color: whitesmoke;
+    border-radius: 2px;
+}
+
+.job_card_btn{
+   border: 1px #178BDD solid;
+   font-family:roboto;
+   font-size: 15px;
+   padding: .3%;
+   border-radius:2px;
+   color: #178BDD;
+}
+
+.job_card_btn:hover{
+    background: #178BDD;
+    color: whitesmoke;
+    box-shadow: 0 0 3px gray;
+}
+
+.job_card_icon{
+    display:flex;
+    justify-content: space-between;
+}
+
+.material-icons{
+    position: relative;
+    top: 3px;
+}
+
+tr:nth-child(odd){
+   background: gray;
+}
+
+tr{
+    line-height: 40px;
+}
+
+a{
+    text-decoration:none;
+    color: #178BDD;
+}
+
+a:hover{
+    text-decoration:none;
+    color: lightblue;
+}

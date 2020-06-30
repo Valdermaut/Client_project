@@ -1,0 +1,208 @@
+ /*  ----------------------------------------------------
+1. Header
+-------------------------------------------------------- */
+ 
+ .body {
+     background-color: #d9d9d9;
+ }
+ 
+ .ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+ }
+ 
+ .li {
+     float: left;
+ }
+ 
+ .navbar {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #0e77c2;
+ }
+ /*  -----------------Header ends---------------------- */
+ /*  ----------------------------------------------------
+2.Buttons
+-------------------------------------------------------- */
+             
+             #btn11 {
+                 border: 1px solid #ffffff;
+                 margin-left: 120px;
+                 padding-top: 3px;
+                 padding-right: 30px;
+                 padding-bottom: 3px;
+                 padding-left: 30px;
+                 font-size: 13px;
+                 color: #ffff;
+             }
+             
+             
+             #btn13 {
+                 border: 1px solid #ffffff;
+                 margin-left: 60%;
+                 padding-top: 3px;
+                 padding-right: 30px;
+                 padding-bottom: 3px;
+                 padding-left: 30px;
+                 font-size: 13px;
+                 color: #ffff;
+                  background-color:green;
+                  margin-top:4%;
+             }
+             
+             #btn14 {
+                 border: 1px solid #ffffff;
+                 margin-left: 40%;
+                 margin-top:-50px;
+                 padding-top: 3px;
+                 padding-right: 30px;
+                 padding-bottom: 3px;
+                 padding-left: 30px;
+                 font-size: 13px;
+                 color: #ffff;
+                 background-color:#0e77c2;
+             }
+ 
+ 
+ #post {
+     background-color: white;
+ }
+ 
+ #first {
+     padding: 10px;
+     background-color: white !important;
+ }
+ 
+ #line {
+     background-color: white;
+ }
+ 
+ #second {
+     padding: 10px;
+     background-color: white !important;
+ }
+ 
+ .jtitle {
+     border: none;
+     border-bottom: 1px solid;
+     float: left;
+ }
+ 
+ #line {
+     background-color: blue;
+     height: 1px;
+ }
+ 
+ .designation {
+     border: none;
+     border-bottom: 1px solid;
+     float: left;
+ }
+ 
+ #area {
+     display: inline;
+     background-color: white;
+     margin-top: 1px;
+     width: 100%;
+     margin-bottom: 10px;
+     padding: 0% !important;
+ }
+ 
+ .video {
+     float: right;
+     float: top;
+ }
+ 
+ input[type="file"] {
+     float: right;
+     display: none;
+     float: top;
+ }
+ 
+ #but {
+     background-color: blue;
+     color: white;
+     float: right;
+     float: top;
+     margin-right: 80px;
+ }
+ 
+ .salary {
+     border: none;
+     border-bottom: 1px solid;
+     float: left;
+ }
+ 
+ .Experiencerequired {
+     border: none;
+     border-bottom: 1px solid;
+     float: right;
+     margin-right: 100px;
+ }
+ 
+ .Experience {
+     margin-right: 127px;
+     float: right;
+ }
+ 
+ #City {
+     border: none;
+     border-bottom: 1px solid;
+     float: left;
+ }
+ 
+ #po {
+     background-color: green;
+     color: white;
+     float: right;
+     float: absolute;
+     margin-right: 10px;
+     scroll-margin-bottom: 10px
+ }
+ 
+ #cl {
+     background-color: blue;
+     color: white;
+     float: right;
+     float: absolute;
+     margin-right: 80px;
+ }
+ 
+ .x {
+     background-color: white !important;
+ }
+ 
+ form {
+     background-color: white;
+ }
+ /*  ----------------------------------------------------
+8. Footer
+-------------------------------------------------------- */
+ 
+ .footer {
+     padding: 15px 20px;
+     background-color: #0e77c2;
+     border-bottom-right-radius: 4px;
+     border-bottom-left-radius: 3x;
+     display: block;
+     margin-right: -15px;
+     padding-left: 50px;
+     margin-top: 250px;
+     color: #ffffff;
+     font-family: Roboto;
+ }
+ 
+ .row {
+     margin-right: -15px;
+     margin-left: -15px;
+ }
+ 
+ .footerli {
+     color: #e6e6e6;
+     font-family: Roboto;
+ }
+ /*  -----------------Footer ends---------------------- */

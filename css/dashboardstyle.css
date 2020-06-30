@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #E9E9E9;
+}
+
+.jumbotron{
+    width: 70%;
+    background: whitesmoke;
+}
+
+#user_det{
+  
+}
+
+#dboard{
+    border: 0;
+    border-radius: 100px;
+    margin-left: 2%;
+    width: auto;
+    height: 150px;
+    box-shadow:0 3px 3px gray;
+}   
+
+.dboard_user{
+  position: relative;    
+  display:flex;
+   justify-content: flex-start;
+}
+
+#dboard_user_det{
+    margin-left: 5%;
+    margin-top: 1%;
+    text-align: left;
+    width: 100%;
+}
+
+#dboard_name{
+    font-family:rubik; 
+    font-size: 28px;
+}
+
+#dboard_work_det{
+    margin-left: 2%;
+    margin-top: 0%;
+    text-align: left;
+    width: 100%;
+}
+
+.det_big{   
+font-weight: lighter;
+font-size: 22px;
+line-height: 50px;
+}
+
+#dboard_work{
+    font-family:rubik; 
+    font-size:28px;
+     
+}
+
+#dboard_job_fil{
+    margin-left:2%; 
+    text-align: left;
+    width: 100%;
+}
+
+.title_blue{
+    color: #178BDD;
+    font-family: roboto;
+    font-size:24px;
+    margin-left: 6%;
+    margin-top:7%; 
+}
+
+.small_grey{
+    color: lightgrey;
+    font-size: 16px;
+    margin-left: 6%;
+}
+
+#dboard_video{
+ display: flex;
+ justify-content: space-between;
+ margin-left: 3%;
+}
+
+#cdboard{
+    border: 0;
+    margin-left: 2%;
+    width: auto;
+    height: 150px;
+    box-shadow:0 3px 3px gray;
+}
+
+#cdboard_video{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+   }

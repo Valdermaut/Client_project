@@ -20,7 +20,7 @@ After a successful test and interview, the candidate can save that interview vid
 It has a search filter for different jobs.
 
 ### Front End tools:
-      HTML, CSS, Bootstrap and React
+      HTML, CSS, Bootstrap.
 
 ### Back End tools:
       PHP, MySQL

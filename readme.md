@@ -10,7 +10,7 @@ After a successful test and interview, the candidate can save that interview vid
 
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=7L9yNrEz4UE)
+[![Watch the video](https://github.com/Valdermaut/Client_project/blob/master/images/ecommerc.png)](https://www.youtube.com/watch?v=7L9yNrEz4UE)
 
 
 
